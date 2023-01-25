@@ -1,1 +1,1 @@
-Install as LIBLZMA_DIR
+This module links with and environment variable LIBLZMA_DIR set to the directory name
